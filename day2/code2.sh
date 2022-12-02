@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file="/Users/gbeck/Projects/AdventofCode2022/day2/input.txt"
+file="input.txt"
 total1=0
 total2=0
 
